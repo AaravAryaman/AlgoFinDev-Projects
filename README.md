@@ -1,4 +1,4 @@
-AlgoFinDev-Projects (in chronological order)
+# AlgoFinDev-Projects (in chronological order)
 
 1. Assignment-1 [https://github.com/AaravAryaman/220012-Aarav-Aryaman-1](https://github.com/AaravAryaman/220012-Aarav-Aryaman-1.git)  
 The objective of this assignment was to calculate the Moving Averages for a particular stock.  
